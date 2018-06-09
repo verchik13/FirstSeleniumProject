@@ -11,7 +11,7 @@ public class SeleniumDemo {
 		
 		WebDriver driver = new FirefoxDriver();
 		
-		driver.get("http://cybertekschool.com");
+		driver.get("https://www.etsy.com/c/clothing-and-shoes?ref=catnav-10923");
 	}
 
 }
